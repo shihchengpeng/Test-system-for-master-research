@@ -1,4 +1,3 @@
 # proposal_system_based_on_ENS
-修士研究で、DNSの脆弱性を解決するために、ENSを用いる提案を考えました。
-そこで、その提案の実装可能性や安全性を分析するために、仮想マシンを使い試作システムを作りました。具体的には、五つの仮想マシンを使い、そのうちの二台はクライアントとして、それぞれDNS情報の登録と問い合わせをする役割で、残りの三台はプライベートイーサリアムネットワークを構成する。
-ここに書いてあるコードは、システムに使われるスマートコントラクトとスクリプトです。
+Here is the image of system architecture.
+![alt text](https://github.com/shihchengpeng/proposal_system_based_on_ENS/blob/main/System%20Architecture.png)
