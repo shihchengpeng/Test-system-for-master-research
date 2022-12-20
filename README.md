@@ -1,3 +1,10 @@
 # proposal_system_based_on_ENS
-Here is the image of system architecture.
+## System architecture
 ![alt text](https://github.com/shihchengpeng/proposal_system_based_on_ENS/blob/main/image/System%20Architecture.png)
+
+## Implementation result
+### Register
+![alt text](https://github.com/shihchengpeng/proposal_system_based_on_ENS/blob/main/image/register.png)
+
+### Query
+![alt text](https://github.com/shihchengpeng/proposal_system_based_on_ENS/blob/main/image/query.png)
